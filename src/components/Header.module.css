@@ -1,0 +1,19 @@
+.header {
+    grid-area: h;
+    background-color: #293145 !important;
+    box-shadow: none !important;
+  
+    padding: 9px 15px 9px 15px;
+    height: auto;
+    position: fixed;
+    top: env(safe-area-inset-top);
+    left: 0;
+    right: 0;
+    z-index: 999;
+    
+  }
+
+  .header img {
+    width: 3%;
+    border-radius: 50%;
+  }

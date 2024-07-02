@@ -1,0 +1,32 @@
+.content {
+    grid-area: c;
+    background-color: #293145 !important;
+    box-shadow: none !important;
+}
+
+.content img {
+    width: 900px;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 3%;
+}
+
+.myPosts {
+    color:blue;
+}
+
+.ava {
+    color: aqua;
+}
+
+.newPost {
+    color: brown;
+}
+
+.post1 {
+    color: crimson;
+}
+
+.post2 {
+    color: darkorchid;
+}
